@@ -1,7 +1,7 @@
 # SideBars
 inicie projetos com códigos limpos e dinâmicos que irão otimizar o seu tempo de produção.
 
-O framework é totalmente dinâmico, apenas siga o passo a passo e veja o resultado.
+A Biblioteca é totalmente dinâmico, apenas siga o passo a passo e veja o resultado.
 
 <br><br>
 <strong>- INSTALAÇÃO:</strong> 
