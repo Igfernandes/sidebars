@@ -75,7 +75,7 @@ Agora o código irá configurar sozinho a propriedade do sidebar, além de criar
 
 <strong>data-sideBtn</strong> - Caso queira criar voce mesmo o seu botão, apenas coloque a propriedade sem um valor para que não seja criado um elemento. 
 
-
+<br><br><br>
 
 <Strong>RESPONSIVIDADE:</strong>
 
