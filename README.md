@@ -12,8 +12,10 @@ O framework é totalmente dinâmico, apenas inclua os links abaixo na tag "head"
 <pre>3° - Nos seus códigos, coloque o atributo 'data-offset="default"' na ultima div do seu sidebar(escopo global)</pre>
 <br>
 #Obser: Lembrando que a div ou elemento pai do sidebar receberá a propriedade 'display: flex' para que o sidebar fique alinhado lado a lado do restante do código.<br><br><br>
+ 
+<pre>4° - Agora coloque a classe 'sidebar' dentro da mesma div em que está o 'data-offset'</pre> <br> <br>
 
-<pre>4° - Ainda nos seus códigos, coloque o atributo 'data-sideBtn' no seu button responsável pela ativação do sidebar</pre><br> <br>
+<pre>5° - Ainda nos seus códigos, coloque o atributo 'data-sideBtn' no seu button responsável pela ativação do sidebar</pre><br> <br>
 
 <strong><h3>PRONTO!</h3></strong> 
 
