@@ -15,6 +15,8 @@ O framework é totalmente dinâmico, apenas inclua os links abaixo na tag "head"
  
 <pre>4° - Agora coloque a classe 'sidebar' dentro da mesma div em que está o 'data-offset'</pre> <br> <br>
 
+<pre>6° - Coloque também a classe'content' na div irmã da que está com a class 'sidebar'</pre><br> <br>
+
 <pre>5° - Ainda nos seus códigos, coloque o atributo 'data-sideBtn' no seu button responsável pela ativação do sidebar</pre><br> <br>
 
 <strong><h3>PRONTO!</h3></strong> 
