@@ -77,7 +77,7 @@ Agora o código irá configurar sozinho a propriedade do sidebar, além de criar
 
 
 
+<Strong>RESPONSIVIDADE:</strong>
 
-
-
+Todos as resoluções abaixo de 425px terão como padrão o sidebar 100%. Caso haja necessidade de modificação, modifique por conta própria na folha de estilo. 
 
