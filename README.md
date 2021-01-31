@@ -10,7 +10,7 @@ O framework é totalmente dinâmico, apenas inclua os links abaixo na tag "head"
 <pre>2° - Chame os arquivos 'sidebar.js' e 'sidebar.css' dentro da tag 'head' do documento HTML.</pre><br>
 
 <pre>3° - Nos seus códigos, coloque o atributo 'data-offset="default"' na ultima div do seu sidebar(escopo global)</pre>
-
+<br>
 #Obser: Lembrando que a div ou elemento pai do sidebar receberá a propriedade 'display: flex' para que fiquem alinhados lado a lado.<br><br><br>
 
 <pre>4° - Ainda nos seus códigos, coloque o atributo 'data-sideBtn="pillars"' no seu button responsável para ativer o sidebar</pre><br> <br>
