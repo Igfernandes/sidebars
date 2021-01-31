@@ -5,46 +5,68 @@ O framework é totalmente dinâmico, apenas inclua os links abaixo na tag "head"
 
 
 #INSTALAÇÃO: 
+<pre>1° - Baixe os arquivos 'sidebar.js' e 'sidebar.css'</pre> <br>
 
-1° - Baixe os arquivos 'sidebar.js' e 'sidebar.css'
+<pre>2° - Chame os arquivos 'sidebar.js' e 'sidebar.css' dentro da tag 'head' do documento HTML.</pre><br>
 
-2° - Chame os arquivos 'sidebar.js' e 'sidebar.css' dentro da tag 'head' do documento HTML.
+<pre>3° - Nos seus códigos, coloque o atributo 'data-offset="default"' na ultima div do seu sidebar(escopo global)</pre>
 
-3° - Nos seus códigos, coloque o atributo 'data-offset="default"' na ultima div do seu sidebar(escopo global)
+#Obser: Lembrando que a div ou elemento pai do sidebar e do outro escopo do site receberá a propriedade 'display: flex' para que fiquem alinhados lado a lado.<br><br><br>
 
-#Obser: Lembrando que a div ou elemento pai do sidebar e do outro escopo do site receberá a propriedade 'display: flex' para que fiquem alinhados lado a lado.
+<pre>4° - Ainda nos seus códigos, coloque o atributo 'data-sideBtn="pillars"' no seu button responsável para ativer o sidebar</pre><br> <br>
 
-4° - Ainda nos seus códigos, coloque o atributo 'data-sideBtn="pillars"' no seu button responsável para ativer o sidebar
+<strong><h3>PRONTO!</h3></strong> 
 
-PRONTO! 
+Agora o código irá configurar sozinho a propriedade do sidebar, além de criar um botão personalizado. 
+<br><br><br><br><br><br>
 
-- Agora o código irá configurar sozinho a propriedade do sidebar, além de criar um botão personalizado. 
+<strong><h3>#DOCUMENTAÇÃO:</h3></strong> 
+
+<strong>data-offset</strong> - Nesse atributo podemos modificar sua estrutura. O valor 'default' é  representado pelo sidebar alcançando 15% da tela, mas caso queira ajustar para outras propriedades, os valores disponívels são:
+
+<table>
+  <tbody>
+    <tr>
+      <td>data-offset</td><td>default</td>
+    </tr>
+    <tr>
+       <td>data-offset</td><td>25</td>
+    </tr>
+    <tr>
+       <td>data-offset</td><td>50</td>
+    </tr>
+    <tr>
+       <td>data-offset</td><td>75</td>
+    </tr>
+    <tr>
+       <td>data-offset</td><td>90</td>
+    </tr>
+    <tr>
+       <td>data-offset</td><td>100</td>
+    </tr>
+  </tbody>
+</table>
+
+<br> <br>
 
 
 
-#DOCUMENTAÇÃO: 
 
-data-offset - Esse atributo pode ter sua estrutuda modificada. O padrão é o sidebar alcançando 15% da tela, mas caso queira ajustar para outras propriedades, os valores disponívels são:
+<strong>data-sideBtn</strong> - Esse atributo foi configurado para ceitar dois valores:
 
-data-offset="25"
-data-offset="50"
-data-offset="75"
-data-offset="90"
-data-offset="100"
+<strong>data-sideBtn="pillars"<strong> - Irá criar pilares no botão, com o efeito único. Caso queira modificar o elemento de dentro, voce pode utilizar qualquer símbolo disponível nesse site: https://pt.wiktionary.org/wiki/%E2%98%B0. Apenas chame no final do seu código a função btnSideBar() e coloque o símbolo dentro dela. Exemplo: 
 
-
-data-sideBtn - Esse atributo foi configurado para ceitar dois valores:
-
-data-sideBtn="pillars" - Irá criar pilares no botão, com o efeito único. Caso queira modificar o elemento de dentro, voce pode utilizar qualquer símbolo disponível nesse site:
-https://pt.wiktionary.org/wiki/%E2%98%B0. Apenas chame no final do seu código a função btnSideBar() e coloque o símbolo dentro dela. Exemplo: 
-
+<pre>
 <script> 
   btnSideBar('♅');
 </script>
+</pre>
+<br> <br>
 
-data-sideBtn="cross" - Irá criar também três pilares deitados, mas a animação final irá transformar os itens em um "X"; Não há como variar, apenas manter esse efeito.
+<strong>data-sideBtn="cross"</strong> - Irá criar também três pilares deitados, mas a animação final irá transformar os itens em um "X"; Não há como variar, apenas manter esse efeito.
+<br> <br>
 
-data-sideBtn - Caso queira criar voce mesmo o seu botão, apenas coloque a propriedade sem um valor que não irá ser criado nenhum elemento. 
+<strong>data-sideBtn</strong> - Caso queira criar voce mesmo o seu botão, apenas coloque a propriedade sem um valor que não irá ser criado nenhum elemento. 
 
 
 
