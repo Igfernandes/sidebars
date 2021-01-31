@@ -4,7 +4,7 @@ inicie projetos com códigos limpos e dinâmicos que irão otimizar o seu tempo 
 O framework é totalmente dinâmico, apenas siga o passo a passo e veja o resultado.
 
 
-#INSTALAÇÃO: 
+<strong>-INSTALAÇÃO:</strong> 
 <pre>1° - Baixe os arquivos 'sidebar.js' e 'sidebar.css'</pre> <br>
 
 <pre>2° - Chame o arquivo 'sidebar.css' dentro da tag 'head' do documento HTML. Depois chame o arquivo 'sidebar.js' no final da tag 'body'</pre><br>
