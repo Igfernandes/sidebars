@@ -7,7 +7,7 @@ O framework é totalmente dinâmico, apenas inclua os links abaixo na tag "head"
 #INSTALAÇÃO: 
 <pre>1° - Baixe os arquivos 'sidebar.js' e 'sidebar.css'</pre> <br>
 
-<pre>2° - Chame os arquivos 'sidebar.js' e 'sidebar.css' dentro da tag 'head' do documento HTML.</pre><br>
+<pre>2° - Chame o arquivo 'sidebar.css' dentro da tag 'head' do documento HTML. Depois chame o arquivo 'sidebar.js' no final da tag 'body'</pre><br>
 
 <pre>3° - Nos seus códigos, coloque o atributo 'data-offset="default"' na ultima div do seu sidebar(escopo global)</pre>
 <br>
