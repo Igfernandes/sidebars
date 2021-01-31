@@ -71,7 +71,7 @@ Agora o código irá configurar sozinho a propriedade do sidebar, além de criar
 <strong>data-sideBtn="cross"</strong> - Irá criar também três pilares deitados, mas a animação final irá transformar os itens em um "X"; Não há como variar, apenas manter esse efeito.
 <br> <br>
 
-<strong>data-sideBtn</strong> - Caso queira criar voce mesmo o seu botão, apenas coloque a propriedade sem um valor que não irá ser criado nenhum elemento. 
+<strong>data-sideBtn</strong> - Caso queira criar voce mesmo o seu botão, apenas coloque a propriedade sem um valor para que não seja criado um elemento. 
 
 
 
