@@ -53,7 +53,7 @@ Agora o código irá configurar sozinho a propriedade do sidebar, além de criar
 
 
 
-<strong>data-sideBtn</strong> - Esse atributo foi configurado para ceitar dois valores:
+<strong>data-sideBtn</strong> - Esse atributo foi configurado para ceitar dois valores: <br>
 
 <strong>data-sideBtn="pillars"</strong> - Irá criar pilares no botão, com o efeito único. Caso queira modificar o elemento de dentro, voce pode utilizar qualquer símbolo disponível nesse site: https://pt.wiktionary.org/wiki/%E2%98%B0. Apenas chame no final do seu código a função btnSideBar() e coloque o símbolo dentro dela. Exemplo: 
 
