@@ -1,7 +1,7 @@
 # SideBars
 inicie projetos com códigos limpos e dinâmicos que irão otimizar o seu tempo de produção.
 
-O framework é totalmente dinâmico, apenas inclua os links abaixo na tag "head" e deixe que o restante o código fazer. 
+O framework é totalmente dinâmico, apenas inclua os links abaixo na tag "head" e deixe que o restante o código faça. 
 
 
 #INSTALAÇÃO: 
