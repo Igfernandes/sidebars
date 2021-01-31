@@ -18,7 +18,7 @@ O framework é totalmente dinâmico, apenas inclua os links abaixo na tag "head"
 <strong><h3>PRONTO!</h3></strong> 
 
 Agora o código irá configurar sozinho a propriedade do sidebar, além de criar um botão personalizado. 
-<br><br><br><br><br><br>
+<br><br><br>
 
 <strong><h3>#DOCUMENTAÇÃO:</h3></strong> 
 
