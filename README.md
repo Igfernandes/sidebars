@@ -21,7 +21,7 @@ O framework é totalmente dinâmico, apenas inclua os links abaixo na tag "head"
 
 Agora o código irá configurar sozinho a propriedade do sidebar, além de criar um botão personalizado. 
 
-<img src="https://raw.githubusercontent.com/IgorFernandes24/sidebars/main/print.jpg">
+<img src="https://raw.githubusercontent.com/Igfernandes/sidebars/main/print.jpg">
 <br><br><br>
 
 
