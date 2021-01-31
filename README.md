@@ -20,6 +20,7 @@ O framework é totalmente dinâmico, apenas inclua os links abaixo na tag "head"
 Agora o código irá configurar sozinho a propriedade do sidebar, além de criar um botão personalizado. 
 <br><br><br>
 
+
 <strong><h3>#DOCUMENTAÇÃO:</h3></strong> 
 
 <strong>data-offset</strong> - Nesse atributo podemos modificar sua estrutura. O valor 'default' é  representado pelo sidebar alcançando 15% da tela, mas caso queira ajustar para outras propriedades, os valores disponívels são:
